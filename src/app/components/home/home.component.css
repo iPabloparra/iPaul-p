@@ -1,0 +1,19 @@
+
+
+.main-container{
+  background-image: url("../../../assets/img/background-camara.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  filter: blur(2px);
+   -moz-filter: blur(2px);
+   -webkit-filter: blur(2px);
+   -o-filter: blur(2px);
+   -ms-filter: blur(2px);
+}
+
+.main-boxes{
+  border: 1px solid white;
+  width: 100%;
+  height: 50vh;
+}
